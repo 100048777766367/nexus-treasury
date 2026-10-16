@@ -5,5 +5,12 @@
         "efficiency_multiplier": 1.4,
         "energy_recaptured_equivalent_usd": 1.728,
         "status": "Autocatalytic_Sustained"
+    },
+    {
+        "disbursed_usd": 2.6697,
+        "new_triplets_catalyzed": 8,
+        "efficiency_multiplier": 1.4,
+        "energy_recaptured_equivalent_usd": 1.0679,
+        "status": "Autocatalytic_Sustained"
     }
 ]
