@@ -1,0 +1,29 @@
+{
+    "total_strain_gradient": 3.554,
+    "strain_matrix": {
+        "retina": 0.3,
+        "cochlea": 0.4995,
+        "tactile": 0.3282,
+        "olfactory": 0.1045,
+        "motor": 0.2441,
+        "neuron": 0.4876,
+        "monad": 0.3824,
+        "shunya": 0.1241,
+        "seed": 0.1927,
+        "genome": 0.4608,
+        "nexus": 0.4301
+    },
+    "osmotic_disbursements": {
+        "retina": 0.4221,
+        "cochlea": 0.7027,
+        "tactile": 0.4617,
+        "olfactory": 0.147,
+        "motor": 0.3434,
+        "neuron": 0.686,
+        "monad": 0.538,
+        "shunya": 0.1746,
+        "seed": 0.2711,
+        "genome": 0.6483,
+        "nexus": 0.6051
+    }
+}
