@@ -14,16 +14,16 @@
         "nexus": 0.4301
     },
     "osmotic_disbursements": {
-        "retina": 0.0511,
-        "cochlea": 0.0851,
-        "tactile": 0.0559,
-        "olfactory": 0.0178,
-        "motor": 0.0416,
-        "neuron": 0.0831,
-        "monad": 0.0652,
-        "shunya": 0.0212,
-        "seed": 0.0328,
-        "genome": 0.0785,
-        "nexus": 0.0733
+        "retina": 0.0501,
+        "cochlea": 0.0835,
+        "tactile": 0.0549,
+        "olfactory": 0.0175,
+        "motor": 0.0408,
+        "neuron": 0.0815,
+        "monad": 0.0639,
+        "shunya": 0.0207,
+        "seed": 0.0322,
+        "genome": 0.077,
+        "nexus": 0.0719
     }
 }
