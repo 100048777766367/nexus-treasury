@@ -15,7 +15,7 @@
     },
     "osmotic_disbursements": {
         "retina": 0.0489,
-        "cochlea": 0.0814,
+        "cochlea": 0.0813,
         "tactile": 0.0535,
         "olfactory": 0.017,
         "motor": 0.0398,
@@ -23,7 +23,7 @@
         "monad": 0.0623,
         "shunya": 0.0202,
         "seed": 0.0314,
-        "genome": 0.0751,
-        "nexus": 0.0701
+        "genome": 0.075,
+        "nexus": 0.07
     }
 }
