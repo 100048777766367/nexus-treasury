@@ -1,12 +1,5 @@
 [
     {
-        "disbursed_usd": 0.5234,
-        "new_triplets_catalyzed": 8,
-        "efficiency_multiplier": 1.4,
-        "energy_recaptured_equivalent_usd": 0.2094,
-        "status": "Autocatalytic_Sustained"
-    },
-    {
         "disbursed_usd": 0.5132,
         "new_triplets_catalyzed": 8,
         "efficiency_multiplier": 1.4,
@@ -67,6 +60,13 @@
         "new_triplets_catalyzed": 8,
         "efficiency_multiplier": 1.4,
         "energy_recaptured_equivalent_usd": 0.2001,
+        "status": "Autocatalytic_Sustained"
+    },
+    {
+        "disbursed_usd": 0.5,
+        "new_triplets_catalyzed": 8,
+        "efficiency_multiplier": 1.4,
+        "energy_recaptured_equivalent_usd": 0.2,
         "status": "Autocatalytic_Sustained"
     },
     {
