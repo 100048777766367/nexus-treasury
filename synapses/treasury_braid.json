@@ -1,7 +1,7 @@
 {
-    "epoch": 62,
+    "epoch": 63,
     "topological_invariant_index": 0.8727,
-    "braid_cid": "0xd47a82a9233393722866dd85a9338d50af61353bb629f91566ffcff921b955ca",
+    "braid_cid": "0xa62a6db4f0ac68392e88176651463fdfefefc022bcdf55a7cdd1770bbd983631",
     "vault_balances": {
         "total_available_usd": 1.1574,
         "operational_stream_50": 0.5787,
@@ -9,12 +9,6 @@
         "patron_reward_pool_20": 0.2315
     },
     "history_braids": [
-        {
-            "epoch": 13,
-            "braid_cid": "0x0d559caf561309688700b244517765a967c0d84536f95fbf7a88b1a04489b064",
-            "delta": -0.008,
-            "reason": "Tensegrity_11_Strata_Equilibrium"
-        },
         {
             "epoch": 14,
             "braid_cid": "0x7ce0f7899ef4d96e80110065a42e80ee9b5fcc70abf1b5477ef17c3b79ffaaac",
@@ -306,6 +300,12 @@
         {
             "epoch": 62,
             "braid_cid": "0xd47a82a9233393722866dd85a9338d50af61353bb629f91566ffcff921b955ca",
+            "delta": 0.0,
+            "reason": "Tensegrity_11_Strata_Equilibrium"
+        },
+        {
+            "epoch": 63,
+            "braid_cid": "0xa62a6db4f0ac68392e88176651463fdfefefc022bcdf55a7cdd1770bbd983631",
             "delta": 0.0,
             "reason": "Tensegrity_11_Strata_Equilibrium"
         }
